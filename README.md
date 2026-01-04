@@ -2,6 +2,10 @@
 
 A command-line timer app for tracking time spent on subtasks.
 
+## Disclaimer
+
+This is a personal project and is not intended for production use. It is provided as-is and without warranty of any kind. Also I wrote this with AI, while on the couch while watching Fringe...
+
 ## Installation
 
 ```bash
